@@ -2,6 +2,7 @@
   "name": "react-contexts-state-managers",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lakshmanshankar.github.io/react-state-managers/",
   "type": "module",
   "scripts": {
     "dev": "vite",
